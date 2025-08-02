@@ -687,13 +687,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **👥 Open Source** community for inspiration
 
 ---
-
-<div align="center">
-
-### 🌟 **Star this repository if it helped you learn!** ⭐
-
-**Made with ❤️ for beginners learning AI**
-
-[🔝 Back to Top](#-simple-text-generator-using-langchain-and-gemini)
-
-</div>
